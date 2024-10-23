@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raiheeo
+- 👋 Hi, I’m hayanomy
 - 👀 I’m interested in Ai Sciences,Python Development
 - 🌱 I’m currently learning Python,C++,SQL(Oracle)
 - 💞️ I’m looking to collaborate on Oracle,Google,Microsoft,Project Red
