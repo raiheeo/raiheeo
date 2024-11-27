@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai Sciences,Python Development
 - 🌱 I’m currently learning Python,C++,SQL(Oracle)
 - 💞️ I’m looking to collaborate on Oracle,Google,Microsoft,Project Red
-- 📫 How to reach me my purposes
+- 📫 Could i change my brain to another one?
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Metis
 
